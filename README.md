@@ -1,4 +1,4 @@
-# CS559---Estimation-of-Facial-Attractiveness-Level-using-TensorFlow
+# CS559
 Bilkent CS559 Deep Learning Homework, Fall 2025
 
 Authors:
